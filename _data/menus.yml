@@ -1,0 +1,45 @@
+main:
+#  - name: "Home"
+#    url: "/"
+#    weight: 1
+  - name: "Services"
+    url: "/services/"
+    weight: 1
+  - name: "Quick Fix"
+    url: "/quick-fix/"
+    weight: 2
+  - name: "About"
+    url: "/about/"
+    weight: 3
+  - name: "Contact"
+    url: "/contact/"
+    weight: 4
+#  - name: "CSpabilities"
+#    url: "/capabilities/"
+#    weight: 4
+#  - name: "Contracts"
+#    url: "/contracts/"
+#    weight: 4
+#  - name: "News"
+#    url: "/news/"
+#    weight: 5
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Services"
+    url: "/services/"
+    weight: 2
+  - name: "Quick Fix"
+    url: "/quick-fix/"
+    weight: 3
+  - name: "Privacy Policy"
+    url: "/privacy-policy/"
+    weight: 4
+#  - name: "Terms"
+#    url: "/terms-and-conditions/"
+#    weight: 5
+  - name: "Contact"
+    url: "/contact/"
+    weight: 6

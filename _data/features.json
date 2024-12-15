@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Free Consultation",
+    "description": "New clients receive an obligation free consultation.",
+    "image": {
+      "url": "assets/images/icons/icons8-consulting-50.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Certified Engineers",
+    "description": "All members of our team are certified engineers",
+    "image": {
+      "url": "assets/images/icons/icons8-workspace-50.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Quick Fixes",
+    "description": "We offer full-service solutions and help desk/it-related quick fixes",
+    "image": {
+      "url": "assets/images/icons/icons8-computer-support-50.png",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

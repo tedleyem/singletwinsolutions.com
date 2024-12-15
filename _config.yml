@@ -1,0 +1,54 @@
+baseurl: ''
+permalink: pretty
+title: 'SingleTwin Solutions'
+logo:
+  mobile: "assets/images/logo/sts-logo-mobile.png"
+  mobile_height: "128px"
+  mobile_width: "128px"
+  desktop: "assets/images/logo/singletwin-solutions-banner3.svg"
+  desktop_height: "32px"
+  desktop_width: "120px"
+home: 
+  limit_services: 6
+collections:
+  services:
+    output: true
+    sort_by: weight
+  team:
+    output: false
+
+defaults:
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: "service"
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"
+
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  auto_ids:       true
+  toc_levels:     1..3
+
+sass:
+  style: compressed # possible values: nested expanded compact compressed
+
+plugins:
+  - jekyll-environment-variables
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md

@@ -1,0 +1,13 @@
+services:
+  - name: "Analysis and Planning"
+    info: "* The reason for moving the workload* What the migration should accomplish* The amount of data that needs to be moved* The type of cloud migration (public, private, hybrid, or multi-cloud scenario)* The method used to migrate the data* The time frame needed to complete the transition* The cost estimate and projection" 
+  - name: "Cloud  Migrating"
+    info: " * use of automation tools* convert code to cloud language* constantly monitor the process to ensure a smooth transition" 
+  - name: "Benchmarking"
+    info: "Where is your system in terms of performance, security, costs, and potential risks? Where do you want it to be? We assess your systems, evaluate your practices, and analyze your operational effectiveness in order to design, develop, and implement best practices and help you deliver the best possible service." 
+  - name: "Process automation"
+    info: "When it comes to automating processes and cloud services, our team uses the latest technologies and tools like Ansible, Docker and other cloud-specific services to ensure it is done in the most performant and cost-effective manner." 
+  - name: "Cloud Solution Consultancy"
+    info: "Cloud software offers a range of advantages for businesses of all sizes and industry sectors. Not only do they offer the ability to scale more efficiently, they make systems and process more accessible to remote employees and save you considerable money on capital investment.They are a truly flexible and secure way to embrace the new way of working and should be considered as an alternative to more traditional, locally installed applications. However, not all cloud solutions are created equal, and identifying those that can actually add operational value to your business can be a tricky task." 
+  - name: "Ongoing Support and Optimization"
+    info: "In addition to design and implementation, we also provide an ongoing support and optimization service, including performance monitoring, capacity planning, and cost optimization. We can help you get the most out of your cloud investment by ensuring solutions perform optimally and support the needs of your business." 
