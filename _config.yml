@@ -6,9 +6,9 @@ logo:
   mobile_height: "128px"
   mobile_width: "128px"
   desktop: "assets/images/logo/sts-banner.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
-home: 
+  desktop_height: "60px"
+  desktop_width: "300px"
+home:
   limit_services: 6
 collections:
   services:
@@ -32,8 +32,8 @@ defaults:
 kramdown:
   syntax_highlighter: rouge
   input: GFM
-  auto_ids:       true
-  toc_levels:     1..3
+  auto_ids: true
+  toc_levels: 1..3
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
