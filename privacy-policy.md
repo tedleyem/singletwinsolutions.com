@@ -37,6 +37,6 @@ We may update this Privacy Policy from time to time to reflect changes in our da
 CONTACT US
 
 If you have any questions or concerns about our Privacy Policy or our data collection and processing practices, please contact us at
-support@singletwinsolutions.com.
+support@stsitsolutions.com.
 
 Thank you for trusting STS IT Solutions with your technology needs. We are committed to protecting your privacy and providing you with excellent service.
