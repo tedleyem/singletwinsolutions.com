@@ -1,7 +1,7 @@
 ---
 title: "Linux Consulting"
 date: 2019-02-28T15:15:34+10:00
-image: "/assets/images/icons/icons8-linux-48.png"
+#image:"/assets/images/icons/icons8-linux-48.png"
 weight: 1
 ---
 
@@ -13,13 +13,13 @@ We support a wide range of open source software and Linux distributions. We prio
 
 Unix is alive and well, but not the availability of experienced UNIX administrators. STS experienced Unix experts are available to manage and maintain Your Unix/Linux distributions.
 
-SingleTwin Solutions is a Linux support company with decades of experience in all environments. We manage and provide support to clients of all sizes, from a single server deployment to a high-availability server cluster.
+STS IT Solutions is a Linux support company with decades of experience in all environments. We manage and provide support to clients of all sizes, from a single server deployment to a high-availability server cluster.
 
  
 
- Feel like your Linux environment is a bit like the "Wild wild west?" Partner with SingleTwin Solutions and bring "law and order" to the management and security of the many distributions of Linux
+ Feel like your Linux environment is a bit like the "Wild wild west?" Partner with STS IT Solutions and bring "law and order" to the management and security of the many distributions of Linux
 
-Unix is alive and well, but not the availability of experienced UNIX administrators. SingleTwin Solutions experienced Unix experts are available to manage and maintain Your Unix/Linux distributions.
+Unix is alive and well, but not the availability of experienced UNIX administrators. STS IT Solutions experienced Unix experts are available to manage and maintain Your Unix/Linux distributions.
 
 ---
 LET US TAKE CARE OF YOUR LINUX SERVERS

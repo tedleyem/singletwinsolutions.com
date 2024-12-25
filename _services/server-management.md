@@ -1,7 +1,7 @@
 ---
 title: "Server Management"
 date: 2019-02-28T15:15:34+10:00
-image: "assets/images/icons/icons8-server-48.png"
+#image:"assets/images/icons/icons8-server-48.png"
 weight: 8
 ---
 We provide business network security service includes all the measures and practices needed to protect your company’s computer systems, data and networks from unauthorized access, theft, damage or disruption.

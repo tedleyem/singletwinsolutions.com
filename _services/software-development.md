@@ -1,7 +1,7 @@
 ---
 title: "Software Development"
 date: 2019-02-28T15:15:34+10:00
-image: "/assets/images/icons/icons8-scripting-30.png"
+#image:"/assets/images/icons/icons8-scripting-30.png"
 weight: 14
 ---
 

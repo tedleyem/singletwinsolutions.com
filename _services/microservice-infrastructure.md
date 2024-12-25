@@ -1,7 +1,7 @@
 ---
 title: "Microservice Infrastructure"
 date: 2019-02-28T15:15:34+10:00
-image: "/assets/images/icons/icons8-docker.png"
+#image:"/assets/images/icons/icons8-docker.png"
 weight: 2
 ---
 

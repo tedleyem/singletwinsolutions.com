@@ -1,7 +1,7 @@
 ---
 title: "Software Automation"
 date: 2019-02-28T15:15:34+10:00
-image: "/assets/images/icons/icons8-docker.png"
+#image:"/assets/images/icons/icons8-docker.png"
 weight: 14
 ---
 
@@ -18,7 +18,7 @@ Overall, updating software is an important part of maintaining the health and pe
 
 Keeping You Up-To-Date
 
-SingleTwin Solutions run a managed IT service that makes sure all your key company software is kept up to date at all times. We do this in a number of ways:
+STS IT Solutions run a managed IT service that makes sure all your key company software is kept up to date at all times. We do this in a number of ways:
 N
 Remote management
 

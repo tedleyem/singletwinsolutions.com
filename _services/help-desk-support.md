@@ -1,7 +1,7 @@
 ---
 title: "Helpdesk & IT Support"
 layout: helpdesk
-image: "/assets/images/icons/icons8-computer-support-48.png"
+#image:"/assets/images/icons/icons8-computer-support-48.png"
 weight: 6
 ---
 
@@ -9,7 +9,7 @@ Designed specifically for businesses seeking reliable, round-the-clock IT suppor
 
 Day or night, no matter the size or scale, our experienced IT engineers are available remotely or in-person (in the South Florida area) to get your IT issues solved and keep your business moving.
 
-In today’s fast-paced market, IT challenges can arise at any moment. They often come at the most inconvenient times too, disrupting you and your team’s workflow – affecting productivity and compromising service levels. SingleTwin Solutions can provide the IT experience and solutions needed to keep your IT operational.
+In today’s fast-paced market, IT challenges can arise at any moment. They often come at the most inconvenient times too, disrupting you and your team’s workflow – affecting productivity and compromising service levels. STS IT Solutions can provide the IT experience and solutions needed to keep your IT operational.
  
 # Features of Our IT Helpdesk Services
 
