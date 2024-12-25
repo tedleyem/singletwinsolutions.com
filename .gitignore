@@ -20,3 +20,8 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 .idea
+
+vendor
+.DS_Store
+/.DS_Store
+/*/.DS_Store
