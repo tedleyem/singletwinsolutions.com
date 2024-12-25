@@ -1,11 +1,11 @@
 baseurl: ''
 permalink: pretty
-title: 'SingleTwin Solutions'
+title: 'STS IT Solutions'
 logo:
   mobile: "assets/images/logo/sts-logo-mobile.png"
   mobile_height: "128px"
   mobile_width: "128px"
-  desktop: "assets/images/logo/singletwin-solutions-banner3.svg"
+  desktop: "assets/images/logo/singletwin-solutions-banner.svg"
   desktop_height: "32px"
   desktop_width: "120px"
 home: 
