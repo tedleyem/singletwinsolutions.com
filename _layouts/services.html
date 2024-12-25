@@ -30,7 +30,7 @@ bodyClass: "page-services"
           <h2 class="service-title">
             <img class=" " 
             src="{{ service.image | relative_url }}" 
-            alt="{{ page.title }}" />
+            alt="" />
             <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
           </h2>
           <p>{{ service.excerpt | markdownify | strip_html | truncate: 100 }}</p>
