@@ -4,11 +4,13 @@ job:
   script:
     - gem install bundler
     - bundle install
+    - bundle config set --local path 'vendor/bundle'
     - bundle exec jekyll build
 deploy-pages:
   script:
     - gem install bundler
     - bundle install
+    - bundle config set --local path 'vendor/bundle'
     - bundle exec jekyll build -d public
   pages: true  # specifies that this is a Pages job
   artifacts:
