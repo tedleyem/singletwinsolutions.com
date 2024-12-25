@@ -2,7 +2,7 @@ baseurl: ''
 permalink: pretty
 title: 'STS IT Solutions'
 logo:
-  mobile: "assets/images/logo/singletwin-logo.png"
+  mobile: "assets/images/logo/2025-sts-logo-black.png"
   mobile_height: "128px"
   mobile_width: "128px"
   desktop: "assets/images/logo/sts-banner.svg"
