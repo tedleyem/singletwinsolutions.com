@@ -5,13 +5,26 @@
     "image": "assets/images/social/github.svg"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/",
-    "image": "assets/images/social/twitter.svg"
-  },
-  {
       "name": "Email",
       "link": "mailto:support@singletwinsolutions.com",
       "image": "assets/images/social/email.svg"
+  },
+  {
+      "name": "Facebook",
+      "link": "https://facebook.com",
+      "image": "assets/images/social/facebook.svg"
+  },
+  {
+      "name": "Instagram",
+      "link": "https://instagram.com",
+      "image": "assets/images/social/instagram.svg"
+  },
+  {
+      "name": "Discord",
+      "link": "https://discord.com",
+      "image": "assets/images/social/discord.svg"
   }
+
 ]
+
+
