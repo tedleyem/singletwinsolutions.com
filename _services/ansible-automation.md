@@ -12,11 +12,11 @@ Red Hat® Ansible® Automation Platform is a unified solution for strategic auto
 
 ##### STS IT Solutions utilizes Ansible to help do the following:
 
-[x] Deliver consistent, reliable automation across domains and use cases.
-:heavy_check_mark:  Maximize the value of the technology and resources you already have.
-:heavy_check_mark: Build a unified automation solution
-:heavy_check_mark:  Create automation more efficiently with developer tools. 
-:heavy_check_mark: Mitigate risk and improve security
-:heavy_check_mark: Enforce consistent security policies and configurations.
-:heavy_check_mark: Automate security monitoring and response to quickly identify and mitigate threats.
-:heavy_check_mark: Reduce risk with a security-hardened enterprise platform.
+* Deliver consistent, reliable automation across domains and use cases.
+* Maximize the value of the technology and resources you already have.
+* Build a unified automation solution
+* Create automation more efficiently with developer tools. 
+* Mitigate risk and improve security
+* Enforce consistent security policies and configurations.
+* Automate security monitoring and response to quickly identify and mitigate threats.
+* Reduce risk with a security-hardened enterprise platform.
