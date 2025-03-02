@@ -10,4 +10,4 @@ show_call_box: true
 
 # STS IT Solutions
 STS provides personalized and open source business management solutions.
-Our business is to take care of your Business.
+We provide commercial Support for open source software.
