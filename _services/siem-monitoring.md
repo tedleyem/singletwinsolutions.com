@@ -5,7 +5,7 @@ date: 2019-02-28T15:15:34+10:00
 weight: 4
 ---
 
-STS IT Solutions’s business network security service includes all the measures and practices needed to protect your company’s computer systems, data and networks from unauthorized access, theft, damage or disruption. We leverage Wazuh as the Security and compliance tool for SIEM management.
+SingleTwin Solutions’s business network security service includes all the measures and practices needed to protect your company’s computer systems, data and networks from unauthorized access, theft, damage or disruption. We leverage Wazuh as the Security and compliance tool for SIEM management.
 
 Wazuh is an open source Security Information and Event Management (SIEM) solution provides monitoring, detection, and alerting of security events and incidents.
 

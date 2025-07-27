@@ -8,7 +8,7 @@ bodyClass: page-about
 
 
 
-Thank you for considering STS IT Solutions for your IT support needs. Protecting your privacy is very important to us, and we are committed to being transparent about the information we collect and how we use it. This Privacy Policy explains our data collection and processing practices and your rights with respect to your personal information.
+Thank you for considering SingleTwin Solutions for your IT support needs. Protecting your privacy is very important to us, and we are committed to being transparent about the information we collect and how we use it. This Privacy Policy explains our data collection and processing practices and your rights with respect to your personal information.
 
 INFORMATION WE COLLECT
 
@@ -37,6 +37,6 @@ We may update this Privacy Policy from time to time to reflect changes in our da
 CONTACT US
 
 If you have any questions or concerns about our Privacy Policy or our data collection and processing practices, please contact us at
-support@stsitsolutions.com.
+support@singletwinsolutions.com.
 
-Thank you for trusting STS IT Solutions with your technology needs. We are committed to protecting your privacy and providing you with excellent service.
+Thank you for trusting SingleTwin Solutions with your technology needs. We are committed to protecting your privacy and providing you with excellent service.

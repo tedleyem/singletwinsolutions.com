@@ -1,4 +1,4 @@
-# STS IT Solutions
+# SingleTwin Solutions
 
 [singletwinsolutions.com](https://singletwinsolutions.com)
 [Source Repo]( https://zerostaticthemes.github.io/jekyll-serif-theme )

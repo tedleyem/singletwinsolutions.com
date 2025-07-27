@@ -11,7 +11,7 @@ Our engineers can help you optimize the way you use your Cloud environment. Deli
 
 # Cloud Migration Strategy
 
-STS IT Solutions offers a professional service that helps businesses design, implement, and optimize their use of cloud computing technology.
+SingleTwin Solutions offers a professional service that helps businesses design, implement, and optimize their use of cloud computing technology.
 
 We provide expert advice and guidance on how to pick the right applications and products to meet your specific needs and goals.
 N

@@ -1,4 +1,4 @@
-# STS IT Solutions
+# SingleTwin Solutions
 
 
 #### Colors can be changed at assets/css/style.scss

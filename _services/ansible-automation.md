@@ -10,7 +10,7 @@ weight: 3
 
 Red Hat® Ansible® Automation Platform is a unified solution for strategic automation. It combines the security, features, integrations, and flexibility needed to scale automation across domains, orchestrate essential workflows, and optimize IT operations to successfully adopt enterprise AI. With Red Hat Ansible Automation Platform, you can maximize efficiency, improve security, and overcome increasing IT challenges like skill gaps and tech sprawl. 
 
-##### STS IT Solutions utilizes Ansible to help do the following:
+##### SingleTwin Solutions utilizes Ansible to help do the following:
 
 * Deliver consistent, reliable automation across domains and use cases.
 * Maximize the value of the technology and resources you already have.
