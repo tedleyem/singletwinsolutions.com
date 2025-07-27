@@ -9,5 +9,5 @@ show_call_box: true
 ---
 
 # SingleTwin Solutions
-STS provides personalized and open source business management solutions.
+STS provides personalized and open source business management solutions for government agencies and small businesses.
 We provide commercial Support for open source software.
