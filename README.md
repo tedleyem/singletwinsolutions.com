@@ -1,7 +1,9 @@
 # SingleTwin Solutions
 
+![STS Logo](assets/sts-logo.jpeg)
 [singletwinsolutions.com](https://singletwinsolutions.com)
 
+# SCREENSHOT 
 ![STS Website](assets/sts-screenshot.png)
 
 # Change logo on main page 
@@ -29,4 +31,5 @@ $steel: #5c5a5a;
 [Icons: icons8](https://icons8.com)
 
 * [SVG and PNG images | The Noun Project](https://thenounproject.com/search/icons/?q=consulting)
+
 
